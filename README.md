@@ -1,1 +1,1 @@
-# Image_Showcase
+# Responsive Image Gallery in React.js
